@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LKS Calculator</string>
+    <string name="enter_first_value">Enter First Value</string>
+    <string name="enter_second_value">Enter Second Value</string>
+    <string name="button">Button</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+
+</resources>
